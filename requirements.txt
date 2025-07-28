@@ -4,3 +4,4 @@ sqlalchemy~=1.4.47
 databases~=0.7.0
 uvicorn==0.15.0
 aiosqlite==0.18.0
+legacy-cgi
